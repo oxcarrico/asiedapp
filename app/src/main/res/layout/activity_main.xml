@@ -46,7 +46,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Ansiedad total: 0"
-        android:textSize="18sp"
+        android:textSize="19sp"
         android:textStyle="bold"
         android:gravity="end" />
 
