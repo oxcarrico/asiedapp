@@ -32,6 +32,6 @@ El Gestor de Ansiedad en Java es una aplicación simple que te permite llevar un
 Puedes utilizar una sintaxis extendida para dar formato a la entrada de ansiedad:
 
 - **Negrita**: `**nombre de la ansiedad**`.
-- *Cursiva*: `*nivel de ansiedad*`.
+- *Cursiva*: `*nivel de ansiedad*`. 
 
 ¡Gracias por usar el Gestor de Ansiedad en Java!
