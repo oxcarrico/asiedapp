@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
                 String nivelPreocupacion = etNivelPreocupacion.getText().toString();
                 int nivel = Integer.parseInt(nivelPreocupacion);
                 sumaTotal += nivel;
-                String item = nombre + ", Nivel de preocupación: " + nivelPreocupacion;
+                String item = nombre + ", Nivel de preocupaciónn: " + nivelPreocupacion;
                 listaItems.add(item);
                 adapter.notifyDataSetChanged();
                 etNombre.setText("");
