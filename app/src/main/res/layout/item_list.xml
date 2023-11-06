@@ -9,6 +9,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:textSize="16sp"
+        android:textColor="Blue"
         android:padding="8dp"/>
 
     <TextView
