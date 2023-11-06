@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ansiedapp</string>
+    <string name="total_concern_level">Nivel total de preocupación: %d</string>
+</resources>
